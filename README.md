@@ -1,1 +1,1 @@
-# tategami-images
+# map-images
